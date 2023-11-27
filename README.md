@@ -21,8 +21,10 @@
 ---
 
 
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-(https://github-readme-activity-graph.vercel.app/graph?username=RITESH-RAI&theme=react-dark&show_border=true&area=true)
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=RITESH-RAI&theme=react-dark&show_border=true&area=true)
 
 
-[![](https://visitcount.itsvg.in/api?id=RITESH-RAI&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in
+[![](https://visitcount.itsvg.in/api?id=RITESH-RAI&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
